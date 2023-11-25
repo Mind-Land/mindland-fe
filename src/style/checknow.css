@@ -166,7 +166,8 @@ section.checknow-section .row h1{
   }
   .checknow-card {
     width: 60px; /* Mengurangi lebar kartu lebih lanjut */
-    height: 80px; /* Mengurangi tinggi kartu lebih lanjut */
+    height: 80px; 
+    border-radius: 6px;/* Mengurangi tinggi kartu lebih lanjut */
   }
 
   .checknow-card .card-image {
@@ -176,6 +177,9 @@ section.checknow-section .row h1{
   }
   .wrapper .card-fitur {
     margin: 0 auto; /* Posisikan kartu ke tengah layar */
+  }
+  .checknow-card .checknow-title {
+    font-size: 9px;
   }
 }
 
@@ -205,6 +209,9 @@ section.checknow-section .row h1{
   }
   .wrapper .card-fitur {
     margin: 0 auto; /* Posisikan kartu ke tengah layar */
+  }
+  .checknow-card .checknow-title {
+    font-size: 6px;
   }
 
 }
