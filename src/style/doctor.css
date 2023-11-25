@@ -1,0 +1,16 @@
+
+section.doctor-section{
+  padding-block: 8rem;
+}
+section.doctor-section img{
+  width: 20rem;
+}
+section.doctor-section .doctor-col{
+  background-color: aqua;
+  min-height: 100vh;
+}
+section.doctor-section h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color: var(--primary);
+}
