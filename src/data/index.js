@@ -46,7 +46,7 @@ export const navLinks = [
   },
   {
     id: 3,
-    path: "dokter",
+    path: "doctor",
     text: "Dokter",
   },
   {
