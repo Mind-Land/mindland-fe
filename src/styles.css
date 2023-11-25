@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;600;700;800;900&family=Quicksand:wght@700&display=swap');
+
+body {
+  font-family: Poppins;
+  }
+
+.Container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* HorizontalCard.css */
+.horizontal-card {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.horizontal-content {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.horizontal-image {
+  margin-right: 20px;
+}
+
+.horizontal-details {
+  width: 100%;
+}
+
+.badge {
+  margin-right: 5px;
+}
